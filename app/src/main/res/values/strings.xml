@@ -26,4 +26,7 @@
     <string name="save">Save</string>
     <string name="add_transaction">Add Transaction</string>
     <string name="manage_categories">Manage Categories</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_settings">Settings</string>
 </resources>
