@@ -1,12 +1,12 @@
 package vn.lobie.campus.utils;
 
-public class DbStatic {
+public class DBStatic {
     public String email;
     public String name;
     public String UserId;
     public String password;
 
-    public DbStatic(String email, String name, String UserId, String password) {
+    public DBStatic(String email, String name, String UserId, String password) {
         this.email = email;
         this.name = name;
         this.UserId = UserId;
